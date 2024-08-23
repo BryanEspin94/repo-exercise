@@ -1,1 +1,1 @@
-repo-exercise - some minor updates
+Making some new amends to then use and compare to git diff command.
